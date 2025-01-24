@@ -129,10 +129,10 @@ select
 	count(*) 'Count_reason'
 from Status_Analysis
 where churn_reason not in ( 
-					Select
-						churn_reason
-					from Status_Analysis
-					where churn_reason = 'N/A')
+	Select
+		churn_reason
+	from Status_Analysis
+	where churn_reason = 'N/A')
 group by churn_reason
 order by Count_reason desc
 go
@@ -143,10 +143,10 @@ select
 	count(*) as 'Count'
 from Status_Analysis
 where churn_category not in (
-						select
-							churn_category
-						from Status_Analysis
-						where churn_category = 'Not applicable')
+	select
+		churn_category
+	from Status_Analysis
+	where churn_category = 'Not applicable')
 group by churn_category
 order by count desc
 go
