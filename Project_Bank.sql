@@ -1,3 +1,5 @@
+--The Power BI dashboard for this project will be posted on my LinkedIn account.
+
 --Total spend per customer for 6 months--
 select 
 	d.customer_id,
