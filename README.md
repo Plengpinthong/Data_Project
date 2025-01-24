@@ -4,7 +4,7 @@
 
 -All SQL in this repository was written in SSMS.
 
--Project_Bank.sql
+-Project_Bank.sql  
   -The Power BI dashboard for this project will be posted on my LinkedIn account.  
 Please follow the link: www.linkedin.com/in/plengpinthong-greesuradej-b85bab337  
   -Data from: https://codebasics.io/challenge/codebasics-resume-project-challenge/11
