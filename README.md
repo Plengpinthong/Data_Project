@@ -6,7 +6,7 @@
 
 - Project_Bank.sql  
   -The Power BI dashboard for this project will be posted on my LinkedIn account.  
-Please follow the link: www.linkedin.com/in/plengpinthong-greesuradej-b85bab337  
+Please follow the link: www.linkedin.com/in/plengpinthong
   -Data from: https://codebasics.io/challenge/codebasics-resume-project-challenge/11
 
 - Project_Why_customer_leave.sql  
