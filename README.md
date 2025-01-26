@@ -16,5 +16,5 @@ Please follow the link: www.linkedin.com/in/plengpinthong
 -Data from: https://www.kaggle.com/datasets/shivamb/netflix-shows  
 -Questions list from: https://www.youtube.com/watch?v=-7cT0651_lw&t=2574s
 
-- Project_promotion.sql
+- Project_promotion.sql  
 -Data from: https://codebasics.io/challenge/codebasics-resume-project-challenge/12
