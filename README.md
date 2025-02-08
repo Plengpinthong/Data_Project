@@ -4,6 +4,10 @@
 
 -All SQL in this repository was written in SSMS.
 
+### Machine Learning  
+- Project_customer_segmentation.ipynb
+
+### Data Analysis
 - Project_Bank.sql  
   -The Power BI dashboard for this project will be posted on my LinkedIn account.  
 Please follow the link: www.linkedin.com/in/plengpinthong  
@@ -18,3 +22,7 @@ Please follow the link: www.linkedin.com/in/plengpinthong
 
 - Project_promotion.sql  
 -Data from: https://codebasics.io/challenge/codebasics-resume-project-challenge/12
+
+- Project_Superstore.ipynb
+- Project_Music_Mental_Health.ipynb
+- Project_Book.ipynb
