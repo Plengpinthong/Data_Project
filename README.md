@@ -6,6 +6,7 @@
 
 ### Machine Learning  
 - Project_customer_segmentation.ipynb
+- Project_Churn_analysis_ML.ipynb
 
 ### Data Analysis
 - Project_Bank.sql  
