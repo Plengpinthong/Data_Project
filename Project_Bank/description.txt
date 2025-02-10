@@ -1,0 +1,5 @@
+This project aims to analyze customer income and spending habits to identify the most suitable customer cluster for a new credit card campaign. It consists of three main parts:
+
+1. Power BI Dashboard – Visualized customer demographics, income, spending tracker, and credit card usage history.
+2. SQL Queries – Performed basic data analysis to extract key insights.
+3. Machine Learning (K-Means Clustering) – Used Scikit-learn’s K-Means algorithm to segment customers and determine the best target group for the campaign.
