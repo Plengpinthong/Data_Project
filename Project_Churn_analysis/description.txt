@@ -1,0 +1,5 @@
+This project aims to analyze the reasons behind customer churn and build a machine learning model using logistic regression to predict future churn. It consists of three main parts:
+
+1. Churn Analysis Dashboard – Visualized key insights related to customer churn.
+2. SQL Queries – Conducted data analysis to identify patterns and trends.
+3. Machine Learning (Logistic Regression) – Developed a churn prediction model to forecast potential customer churn.
