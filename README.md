@@ -13,8 +13,12 @@
 ### Project_churn_analysis  
 - Data Analysis: https://github.com/Plengpinthong/Data_Project/blob/main/Project_Churn_analysis/Churn_analysis.sql
 - Machine Learning: https://github.com/Plengpinthong/Data_Project/blob/main/Project_Churn_analysis/Churn_logistic_regression.ipynb
-- Dashboard: 
+- Dashboard: https://www.linkedin.com/posts/plengpinthong_this-is-one-of-my-power-bi-dashboards-from-activity-7294588202017767424-V5CQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFS3btUB7KBa-3VltYCDt65jJPN7ZHut454
 - Description: https://github.com/Plengpinthong/Data_Project/blob/main/Project_Churn_analysis/description.txt
+
+### Project_Music_Mental_Health
+- Data Analysis: https://github.com/Plengpinthong/Data_Project/blob/main/Project_music_mental_health/Project_Music_Mental_Health.ipynb
+- Machine Learning: https://github.com/Plengpinthong/Data_Project/blob/main/Project_music_mental_health/Music_Decision_Tree.ipynb  
 
 ### Project_Netflix 
 - Data Analysis: https://github.com/Plengpinthong/Data_Project/blob/main/Project_Netflix.sql
@@ -27,9 +31,6 @@
 
 ### Project_Superstore  
 - Data Analysis: https://github.com/Plengpinthong/Data_Project/blob/main/Project_Superstore.ipynb
-
-### Project_Music_Mental_Health
-- Data Analysis: https://github.com/Plengpinthong/Data_Project/blob/main/Project_Music_Mental_Health.ipynb
 
 ### Project_Book
 - Data Analysis: https://github.com/Plengpinthong/Data_Project/blob/main/Project_Book.ipynb
